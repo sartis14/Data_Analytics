@@ -14,21 +14,21 @@ Robotic Process Automation (RPA) Workflows:
 Discover Ui Path and Blue Prism automation workflows, illustrating your proficiency in streamlining repetitive tasks through automation.
 
 SQL Database Queries:
-Review SQL queries and database interactions, showcasing your ability to extract valuable insights from relational databases.
+Review SQL queries and database interactions, showcasing my ability to extract valuable insights from relational databases.
 
 Cloud Certifications:
 My certifications and training in cloud platforms, including Amazon AWS and Microsoft Azure. Demonstrates my skills in leveraging cloud services for scalable and efficient data processing.
 
 Excel Expertise:
-Showcase your mastery of Excel, an essential tool in data analysis, through examples of data manipulation, visualization, and advanced formula usage.
+Showcases mastery of Excel, an essential tool in data analysis, through examples of data manipulation, visualization, and advanced formula usage.
 
 Tableau Certification:
-Highlight your Tableau certification, underlining your commitment to mastering the tool and delivering impactful visualizations.
-Additional Features:
+Tableau certification, underlining my commitment to mastering the tool and delivering impactful visualizations.
 
+Additional Features include 
 Documentation:
 Find detailed documentation accompanying each section, providing insights into your thought process and methodologies.
-Code Snippets:
+
 
 
 
